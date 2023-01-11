@@ -9,13 +9,13 @@ A relational database that stores and manages data pertaining to the operations 
 
 ## Table of Contents
 
-- [Run Locally](#run)
+- [Run Locally](#run-locally)
 - [Documentation](#documentation)
-- [Entity Relationship Diagram](#erd)
-- [Database Model](#eer)
+- [Entity Relationship Diagram](#entity-relationship-diagram)
+- [Database Model](#database-model)
 
 
-## Run Locally {#run}
+## Run Locally 
 
 ### Prerequisites
 In order to successfully run an instance of CollegeDB in your local machine, please ensure the following are installed:
@@ -58,10 +58,10 @@ Once the connection has been established, this command creates a new database, "
 Access the complete documentation for CollegeDB [here](https://github.com/amron98/CollegeDB/blob/main/milestones/Milestone2/M2.pdf)
 
 
-## Entity Relationship Diagram {#erd}
+## Entity Relationship Diagram 
 
 ![Entity Relationship Diagram](https://github.com/amron98/CollegeDB/blob/main/resources/CollegeDB.ERD.png)
 
-## Database Model {#eer}
+## Database Model 
 
 ![Database Model](https://github.com/amron98/CollegeDB/blob/5c92651798904d2e6fb3ac37a67ed637924e4e61/resources/CollegeDB.EER.png)
