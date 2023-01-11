@@ -1,9 +1,10 @@
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/54814481/211725587-93432b1b-5c28-4964-a027-ec4da7e31b11.svg">
+</p>
 
-# CollegeDB
+A relational database that stores and manages data pertaining to the operations of a mock college. CollegeDB was a milestone based capstone project in my Intro to Database Systems course at San Francisco State Uniiversity that emphasized a design-first approach to creating mid-size database systems. 
 
-A relational database that stores and manages data pertaining to the operations of a mock college
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![Apache 2.0 License](https://img.shields.io/hexpm/l/plug)](https://choosealicense.com/licenses/apache-2.0/)
 
 
 ## Table of Contents
